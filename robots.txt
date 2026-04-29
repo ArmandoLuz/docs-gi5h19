@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-1qpvl3.beehaus.fun/sitemap.xml
